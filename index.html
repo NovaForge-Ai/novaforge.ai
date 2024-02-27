@@ -650,7 +650,9 @@
                                        `
                                        formSubmit.replaceWith(formDone)
                                        let form = document.getElementById("wf-form-Contact-Form")
-                                       form.reset()
+                                       setTimeout(() => {
+                                          form.reset()}
+                                          , 2000)
                                        console.log("submitted!")
                                     })
                                  </script>
