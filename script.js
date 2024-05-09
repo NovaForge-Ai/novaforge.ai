@@ -13325,7 +13325,7 @@
   require_webflow_scroll();
   require_webflow_touch();
   // require_webflow_forms();
-  // require_webflow_navbar();
+  require_webflow_navbar();
 })();
 /*!
  * tram.js v0.8.2-global
