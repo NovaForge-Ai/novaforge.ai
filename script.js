@@ -13324,7 +13324,7 @@
   // require_webflow_links();
   require_webflow_scroll();
   require_webflow_touch();
-  // require_webflow_forms();
+  require_webflow_forms();
   require_webflow_navbar();
 })();
 /*!
